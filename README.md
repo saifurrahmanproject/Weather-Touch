@@ -1,6 +1,6 @@
 # Weather-touch
 
-### Weather app which can track your current location weather and also you can find easily any other city's current weather by using searching Text Field. Basically, I used here MVC software design pattern, JSON, SF Symbols, pdf vector images, API(openweathermap) for finding the current city's weather and also any other city's current weather in the World by searching. I hope, you will enjoy this app. 
+### Weather app which can track your current location weather and also you can find easily any other city's current weather by using searching Text Field. Basically, I used here MVC software design pattern, JSON, SF Symbols, pdf vector images, API(openweathermap)for finding the cities weather. I hope, you will enjoy this app. 
 
 
 #### App Icon 
